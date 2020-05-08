@@ -1,1 +1,2 @@
-# PytorchチュートリアルをGoogle ColabとDeepLを使って読み進めるリポジトリ
+# Pytorchチュートリアルを読み進めるためのリポジトリ
+notebooks中の翻訳は基本的にはDeepLとGoogle翻訳を通しただけなので雑です.
